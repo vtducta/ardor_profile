@@ -45,16 +45,16 @@
 		    <div class='col-md-6 top-text pull-left animated fadeInLeft'>
 			<i class='icon-envelope'></i>
 			Email:
-			<a href='mailto:home.ardor@gmail.com' title='Email us'>home.ardor@gmail.com</a>
+			<a href='mailto:brad.ducta@gmail.com' title='Email us'>brad.ducta@gmail.com</a>
 			<span class='separator'></span>
 			<i class='icon-skype'></i>
 			Skype:
-			<a href='skype:Home.ardor@gmail.com' title='Call us'>Home.ardor@gmail.com</a>
+			<a href='skype:brad.ducta@gmail.com' title='Call us'>brad.ducta@gmail.com</a>
 		    </div>
 		    <div class='col-md-6 text-right animated fadeInRight'>
 			<div class='social-icons'>
-			    <a class='icon icon-instagram' href='https://www.instagram.com/home.ardor/' target='_blank' title='Instagram'></a>
-			    <a class='icon icon-facebook' href='https://www.facebook.com/ardor.ardor.927' target='_blank' title='Facebook'></a>
+			    <a class='icon icon-instagram' href='https://www.instagram.com/brad.ducta/' target='_blank' title='Instagram'></a>
+			    <a class='icon icon-facebook' href='https://www.facebook.com/brad.ducta' target='_blank' title='Facebook'></a>
 			</div>
 		    </div>
 		</div>
@@ -693,6 +693,7 @@
 		    <span>Сontact Us</span>
 		</h1>
 		<div class='row'>
+			<!--
 		    <div class='col-md-8 animated fadeInLeftNow notransition'>
 			<p>If you have any questions about our services or something else, please email or call us.</p>
 			<div id='success-feedback'>
@@ -720,10 +721,7 @@
 				    <div class='col-sm-12'>
 					<div class='row with-margin'>
 					    <div class='col-sm-6'>
-<!--						<script src="assets/www.google.com/recaptcha/api.js" async defer></script>
-						<div class="g-recaptcha" data-sitekey="6LfNzQgTAAAAAJyyTXP8ChZiTaZOW5av7j6HkJ7K" ></div>-->
-						<!--<noscript><div style="width: 302px; height: 352px;">  <div style="width: 302px; height: 352px; position: relative;">    <div style="width: 302px; height: 352px; position: absolute;">      <iframe src="http://www.google.com/recaptcha/api/fallback?k=6LfNzQgTAAAAAJyyTXP8ChZiTaZOW5av7j6HkJ7K"                frameborder="0" scrolling="no"                style="width: 302px; height:352px; border-style: none;">        </iframe>      </div>      <div style="width: 250px; height: 80px; position: absolute; border-style: none;              bottom: 21px; left: 25px; margin: 0px; padding: 0px; right: 25px;">        <textarea id="g-recaptcha-response" name="g-recaptcha-response"                   class="g-recaptcha-response"                   style="width: 250px; height: 80px; border: 1px solid #c1c1c1;                   margin: 0px; padding: 0px; resize: none;" value="">         </textarea>      </div>    </div>  </div></noscript>-->
-					    </div>
+			    		</div>
 					    <div class='col-sm-6 text-right'>
 						<button name="button" type="submit" class="btn buttoncolor" data-loading-text="Wait...">Send message
 						</button></div>
@@ -734,6 +732,7 @@
 			</form>
 			<div class='clearfix'></div>
 		    </div>
+		    -->
 		    <div class='col-md-4 animated fadeInRightNow notransition'>
 			<ul class='unstyled'>
 			    <li>
@@ -755,14 +754,14 @@
 				    <i class='icon-envelope'></i>
 				</span>
 				Email:
-				<a href="mailto:home.ardor@gmail.com">home.ardor@gmail.com</a>
+				<a href="mailto:brad.ducta@gmail.com">brad.ducta@gmail.com</a>
 			    </li>
 			    <li>
 				<span style='margin-right:5px;'>
 				    <i class='icon-skype'></i>
 				</span>
 				Skype:
-				<a href='skype:home.ardor@gmail.com' title='&lt;span class="translation_missing" title="translation missing: en.frontend.footer.call_us"&gt;call us&lt;/span&gt;'>
+				<a href='skype:brad.ducta@gmail.com' title='&lt;span class="translation_missing" title="translation missing: en.frontend.footer.call_us"&gt;call us&lt;/span&gt;'>
 				    Ardor
 				</a>
 			    </li>
@@ -791,11 +790,11 @@
 				</p>
 				<p>
 				    <strong>Email:</strong>
-				    <a href='mailto:home.ardor@gmail.com' title='Email us'>home.ardor@gmail.com</a>
+				    <a href='mailto:brad.ducta@gmail.com' title='Email us'>brad.ducta@gmail.com</a>
 				</p>
 				<p>
 				    <strong>Skype:</strong>
-				    <a href='skype:home.ardor@gmail.com' title='Call us'>Ardor</a>
+				    <a href='skype:brad.ducta@gmail.com' title='Call us'>Ardor</a>
 				</p>
 			    </div>
 			</div>
@@ -842,7 +841,7 @@
 			    </h1>
 			    <p>Want to become a part of our team?</p>
 
-			    <p>Send your CV to <a href="mailto:home.ardor@gmail.com">home.ardor@gmail.com</a> and we will get back to you!</p>
+			    <p>Send your CV to <a href="mailto:brad.ducta@gmail.com">brad.ducta@gmail.com</a> and we will get back to you!</p>
 
 			</div>
 		    </div>
